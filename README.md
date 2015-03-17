@@ -1,2 +1,3 @@
-# maps
-Map extracted from Wikivoyage data
+# iWikivoyage maps
+
+Maps extracted from Wikivoyage data
